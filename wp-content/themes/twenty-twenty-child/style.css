@@ -36,6 +36,7 @@ h1.entry-title {
 .wp-block-columns.alignfull {
   background-color: #2a2b2d;
   justify-content: space-evenly;
+  margin-bottom: 0px;
   padding-bottom: 48px;
   padding-top: 48px;
 }
