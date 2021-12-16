@@ -11,6 +11,16 @@
   background-color: #2a2b2d;
 }
 
+.singular .entry-header {
+  background-color: #bb4c02;
+  color: #fff;
+}
+
+h1.entry-title {
+  font-size: 68px;
+  font-weight: 500;
+}
+
 .primary-menu > li > a  {
   color: #f6924e!important;
 }
@@ -21,4 +31,26 @@
 
 .header-toggles.hide-no-js {
   display: none;
+}
+
+.wp-block-columns.alignfull {
+  background-color: #2a2b2d;
+  padding-bottom: 48px;
+  padding-top: 48px;
+}
+
+.wp-block-columns.alignfull .wp-block-column {
+  margin: 0 auto;
+  max-width: 358px;
+  text-align: center;
+}
+
+.wp-block-columns.alignfull h2 {
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.wp-block-columns.alignfull h2 a {
+  color: #f6924e;
+  font-size: 47px;
 }
