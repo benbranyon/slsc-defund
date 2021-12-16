@@ -35,12 +35,12 @@ h1.entry-title {
 
 .wp-block-columns.alignfull {
   background-color: #2a2b2d;
+  justify-content: space-evenly;
   padding-bottom: 48px;
   padding-top: 48px;
 }
 
 .wp-block-columns.alignfull .wp-block-column {
-  margin: 0 auto;
   max-width: 358px;
 }
 
