@@ -18,3 +18,7 @@
 .site-title a {
   color: #f6924e;
 }
+
+.header-toggles.hide-no-js {
+  display: none;
+}
